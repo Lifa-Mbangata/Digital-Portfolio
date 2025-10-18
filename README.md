@@ -34,16 +34,8 @@ It focuses on preparing effectively, using structured answering techniques (CAR/
 ## Evidence 1 – Interview Skills Quiz Results
 **Module:** Interview Skills  
 **Status:** Complete  
-**Score:** **100%**  
-**Duration:** 00:34:26  
+**Score:** **100%**   
 
-| Question | Topic | Result |
-|-----------|--------|---------|
-| What is the primary purpose of a job interview? | Understanding purpose | ✅ Correct |
-| What is the CAR method used for in interviews? | Answer structuring | ✅ Correct |
-| What is the purpose of researching a company before an interview? | Preparation | ✅ Correct |
-| What is the best way to answer “Tell me about yourself”? | Personal presentation | ✅ Correct |
-| What is the best approach when asked about your greatest weakness? | Self-awareness & growth | ✅ Correct |
 
 **Interpretation:**  
 I achieved a full score, demonstrating a solid understanding of interview techniques, professional preparation, and effective communication using structured methods.
@@ -95,15 +87,6 @@ It focuses on building meaningful professional relationships, maintaining an act
 **Module:** Professional Networking  
 **Status:** Complete  
 **Score:** **100%**  
-**Duration:** 00:08:15  
-
-| Question | Topic | Result |
-|-----------|--------|---------|
-| What is the primary purpose of professional networking? | Building professional relationships | ✅ Correct |
-| What does the term “networking event” typically refer to? | Professional gathering for career connections | ✅ Correct |
-| What is the “golden rule” of networking? | Give before you receive | ✅ Correct |
-| Which of the following is a common mistake to avoid in networking? | Talking only about yourself | ✅ Correct |
-| What is the first step in creating a professional network? | Identifying and reaching out to key contacts | ✅ Correct |
 
 **Interpretation:**  
 I achieved **100%**, demonstrating excellent understanding of professional networking principles such as reciprocity, active engagement, and relationship-building.
@@ -125,8 +108,8 @@ This demonstrates awareness of digital branding and how visual presentation cont
 
 ## Evidence 3 – Networking Platforms
 I created and actively maintain professional online profiles:
-- **LinkedIn:** [Add your LinkedIn profile link here]  
-- **GitHub:** [Add your GitHub profile link here]  
+- **LinkedIn:** [www.linkedin.com/in/lifa-mbangata-7b1853290]  
+- **GitHub:** [https://github.com/Lifa-creater22]  
 
 These platforms allow me to:
 - Connect with industry peers and mentors  
@@ -159,3 +142,25 @@ My LinkedIn profile now reflects a clear, professional identity, and I have begu
 - A professional profile photo and online presence enhance employability.  
 - Consistency across digital platforms builds trust and recognition.  
 - Continuous engagement and contribution strengthen professional relationships.
+
+## STAR Example: Workplace Presentation
+
+**Situation:**  
+I was tasked with delivering a presentation at work to share updates on a key project with my team and stakeholders.
+
+**Task:**  
+My goal was to clearly communicate project progress, highlight challenges, and provide actionable recommendations to ensure everyone was aligned.
+
+**Action:**  
+- Prepared a structured slide deck with key points, visuals, and data to support my discussion.  
+- Practiced delivery to ensure clarity, confident tone, and engaging pacing.  
+- Addressed questions from colleagues and provided concise, well-informed answers.
+
+**Result:**  
+- Successfully delivered the presentation, receiving positive feedback from both peers and supervisors.  
+- Helped the team understand project status, identify next steps, and improve collaboration on pending tasks.  
+
+**Evidence:**  
+![Presentation at Work](![PHOTO-2025-08-01-11-36-32](https://github.com/user-attachments/assets/42284aa8-3c6b-48c8-8df9-dc7b542a4a8a)
+)  
+*Photo of me presenting to the team, demonstrating confidence, professionalism, and effective communication.*
