@@ -82,3 +82,80 @@ This process enhanced my ability to communicate clearly, stay calm under pressur
 - Use **CAR/STAR** methods to give clear, structured answers.  
 - Focus on confidence, authenticity, and professionalism.  
 - Reflect on each interview to continuously improve your approach.
+
+# Evidence: Professional Networking
+
+### **Overview**
+This section highlights my understanding of **Professional Networking** from the CPUT Work Readiness module (PRP370S).  
+It focuses on building meaningful professional relationships, maintaining an active online presence, and understanding the importance of networking in career growth.
+
+---
+
+## Evidence 1 – Professional Networking Quiz Results
+**Module:** Professional Networking  
+**Status:** Complete  
+**Score:** **100%**  
+**Duration:** 00:08:15  
+
+| Question | Topic | Result |
+|-----------|--------|---------|
+| What is the primary purpose of professional networking? | Building professional relationships | ✅ Correct |
+| What does the term “networking event” typically refer to? | Professional gathering for career connections | ✅ Correct |
+| What is the “golden rule” of networking? | Give before you receive | ✅ Correct |
+| Which of the following is a common mistake to avoid in networking? | Talking only about yourself | ✅ Correct |
+| What is the first step in creating a professional network? | Identifying and reaching out to key contacts | ✅ Correct |
+
+**Interpretation:**  
+I achieved **100%**, demonstrating excellent understanding of professional networking principles such as reciprocity, active engagement, and relationship-building.
+
+---
+
+## Evidence 2 – Professional Profile Picture
+I uploaded a professional headshot to my portfolio and LinkedIn profile to reflect a polished and employable digital identity.
+
+**Profile Photo Details:**
+- Neutral background and formal attire  
+- Good lighting and posture  
+- Confident, approachable facial expression  
+- Used consistently across GitHub and LinkedIn  
+
+This demonstrates awareness of digital branding and how visual presentation contributes to professional credibility.
+
+---
+
+## Evidence 3 – Networking Platforms
+I created and actively maintain professional online profiles:
+- **LinkedIn:** [Add your LinkedIn profile link here]  
+- **GitHub:** [Add your GitHub profile link here]  
+
+These platforms allow me to:
+- Connect with industry peers and mentors  
+- Showcase my projects and skills  
+- Stay informed about job opportunities and professional events  
+
+---
+
+## Reflection: STAR Technique
+
+### **S – Situation**
+During the Work Readiness module, I was introduced to professional networking and how it supports career advancement.  
+I also created online professional profiles to build my digital presence.
+
+### **T – Task**
+My goal was to understand how to network strategically — both online and offline — to create long-term professional relationships that could lead to career growth and collaboration opportunities.
+
+### **A – Action**
+I researched best practices for LinkedIn and GitHub profiles, uploaded a professional headshot, and engaged with posts relevant to my field.  
+I reached out to professionals and peers to grow my network, focusing on shared learning and mutual support.
+
+### **R – Result**
+I achieved **100%** in the Professional Networking quiz and developed a strong digital presence.  
+My LinkedIn profile now reflects a clear, professional identity, and I have begun building meaningful connections with developers and mentors.
+
+---
+
+### **Key Takeaways**
+- Networking is about genuine connection and mutual value, not self-promotion.  
+- A professional profile photo and online presence enhance employability.  
+- Consistency across digital platforms builds trust and recognition.  
+- Continuous engagement and contribution strengthen professional relationships.
