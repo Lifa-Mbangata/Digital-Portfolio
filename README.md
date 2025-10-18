@@ -164,3 +164,26 @@ My goal was to clearly communicate project progress, highlight challenges, and p
 ![Presentation at Work](![PHOTO-2025-08-01-11-36-32](https://github.com/user-attachments/assets/42284aa8-3c6b-48c8-8df9-dc7b542a4a8a)
 )  
 *Photo of me presenting to the team, demonstrating confidence, professionalism, and effective communication.*
+
+## STAR Example: Mock Interview Performance
+
+**Situation:**  
+I participated in a mock interview to practice my interviewing skills and prepare for real job opportunities.
+
+**Task:**  
+My goal was to demonstrate my technical knowledge, communication skills, and professionalism while answering typical interview questions.
+
+**Action:**  
+- Researched common interview questions and prepared structured responses.  
+- Practiced clear and confident communication, emphasizing relevant experiences and achievements.  
+- Maintained professional body language, eye contact, and engaged actively with the interviewer.  
+
+**Result:**  
+- Improved my confidence in answering questions under pressure.  
+- Received constructive feedback on areas of strength and opportunities for improvement.  
+- Gained practical experience in articulating my skills effectively in a professional setting.  
+
+**Evidence:**  
+![Mock Interview]
+*Screenshot or snapshot from my mock interview video, showing engagement, confidence, and professionalism during the session.*
+
