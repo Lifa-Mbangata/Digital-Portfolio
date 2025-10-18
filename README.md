@@ -1,16 +1,24 @@
-# Digital-Portfolio
-## Reflection: Business Communication (STAR Technique)
+## Evidence
+This PowerPoint presentation summarizes the key principles of effective business communication:
+- Understanding formal vs. informal tone  
+- Structuring business emails correctly  
+- Applying email etiquette and professionalism  
+- Using clarity and tone to achieve communication goals  
+
+The presentation also demonstrates my ability to create professional digital content that can be used in a work readiness or corporate training environment.
+
+## Reflection: STAR Technique
 
 ### **S – Situation**
-During the Work Readiness module, I needed to compose a professional email to request a project handover document from a team member before our scheduled presentation.
+During the Work Readiness module, I completed a Business Communication quiz and developed a PowerPoint presentation summarizing best practices.
 
 ### **T – Task**
-My goal was to communicate the request clearly, politely, and in a formal tone while maintaining professionalism and ensuring the recipient understood the urgency.
+My objective was to demonstrate understanding of professional tone, structure, and communication etiquette, and to apply these principles in a real-world format.
 
 ### **A – Action**
-I drafted a concise subject line, greeted the recipient formally, and structured the email using short, clear paragraphs.  
-I also proofread for grammar and tone before sending. I followed up with a thank-you message once the document was received.
+I studied the material, completed the quiz, reviewed my incorrect answer, and created a PowerPoint that visually presented my learning.  
+I focused on tone, structure, and clarity, aligning with the principles of workplace communication.
 
 ### **R – Result**
-The recipient responded promptly and appreciated the clarity of my communication.  
-This experience improved my ability to use the correct tone and structure in professional correspondence, especially when working with senior colleagues.
+I achieved **80%** in the quiz and produced a professional PowerPoint presentation.  
+This process improved my ability to write formal messages, plan structured presentations, and communicate more effectively in business environments.
